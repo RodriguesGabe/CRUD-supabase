@@ -17,9 +17,8 @@ Este é um projeto CRUD (Create, Read, Update, Delete) desenvolvido com Vite, Re
 - **Vercel**: Plataforma de deploy e hospedagem para projetos web.
 
 ## Equipe:
-
-- **Gabriella S. R.**
 - **Aysha Maria**
+- **Gabriella S. R.**
 
 
 ## React + Vite
