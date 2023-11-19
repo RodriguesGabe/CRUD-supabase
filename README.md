@@ -1,4 +1,4 @@
-# Projeto CRUD Fullstack 
+# Projeto CRUD-SUPABASE
 
 Este é um projeto CRUD (Create, Read, Update, Delete) desenvolvido com Vite, ReactJS, e utiliza o Supabase como banco de dados. O deploy da aplicação é realizado no Vercel. Este projeto foi criado para fins didáticos, como parte de uma atividade de aula. 
 
