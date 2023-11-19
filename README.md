@@ -19,6 +19,7 @@ Este é um projeto CRUD (Create, Read, Update, Delete) desenvolvido com Vite, Re
 ## Equipe:
 - **Aysha Maria**
 - **Gabriella S. R.**
+- **Andreza Mendes**
 
 
 ## React + Vite
